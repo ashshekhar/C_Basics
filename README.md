@@ -46,6 +46,33 @@ Create a function `countRange311` that receives reference to an array of floatin
 
 Create a function `histogram311` that receives a reference to an array of integer values calculated in the previous step and prints out a histogram showing the counts of the different values. The Y-axis should display count values from 0-19. The function should check the number of elements and return with a -1 value if it is not 10. Otherwise, the function should create a histogram indicating the numbers calculated in Step #8 above.
 
+```
+   +----------------------------------------+
+19 |                 xx  xx                 |
+18 |                 xx  xx                 |
+17 |                 xx  xx                 |
+16 |                 xx  xx                 |
+15 |.................xx..xx.................|
+14 |                 xx  xx                 |
+13 |                 xx  xx  xx             |
+12 |                 xx  xx  xx             |
+11 |             xx  xx  xx  xx             |
+10 |.....xx......xx..xx..xx..xx.............|
+09 |     xx      xx  xx  xx  xx             |
+08 |     xx      xx  xx  xx  xx  xx         |
+07 |     xx      xx  xx  xx  xx  xx         |
+06 |     xx  xx  xx  xx  xx  xx  xx         |
+05 |.xx..xx..xx..xx..xx..xx..xx..xx.........|
+04 | xx  xx  xx  xx  xx  xx  xx  xx         |
+03 | xx  xx  xx  xx  xx  xx  xx  xx  xx     |
+02 | xx  xx  xx  xx  xx  xx  xx  xx  xx  xx |
+01 | xx  xx  xx  xx  xx  xx  xx  xx  xx  xx |
+00 |.xx..xx..xx..xx..xx..xx..xx..xx..xx..xx.|
+   +----------------------------------------+
+     00  10  20  30  40  50  60  70  80  90
+
+```
+
 ## Submission Guidelines
 
 Add comments to all of your files stating what the code is doing. Fill out the comment function header for each function you are defining in the code. A sample header you can copy for this purpose is provided for the main function in the code. It is very important that your code is neat and legible. You will be penalized if your code is difficult to read.
