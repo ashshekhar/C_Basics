@@ -1,5 +1,7 @@
 # C Programming Basics
 
+### Note: This work is strictly for my personal use. If you are a CMPSC 311 student, you are solely responsible for any kind of plagiarism.
+
 ## Introduction
 
 You are to complete the assign1-cmpsc311-sp20 program. The assign1-cmpsc311-sp20 program receives an array of floating point values, one per line and executes a number of operations and functions. Complete the code in the 
