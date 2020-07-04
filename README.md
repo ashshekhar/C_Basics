@@ -1,6 +1,6 @@
 # C Programming Basics
 
-### Disclaimer: This work is strictly for my personal use. If you are a CMPSC 311 student, you are solely responsible for any kind of plagiarism.
+#### *Disclaimer: This work is strictly for my personal use. If you are a CMPSC 311 student, you are solely responsible for any kind of plagiarism.*
 
 ## Introduction
 
